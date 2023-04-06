@@ -1,0 +1,22 @@
+export let REGISTER_START = "REGISTER_START";
+export let REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export let REGISTER_FAIL = "REGISTER_FAIL";
+
+
+export let LOGIN_START = "LOGIN_START";
+export let LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export let LOGIN_FAIL = "LOGIN_FAIL";
+
+
+export let LOGOUT_START = "LOGOUT_START";
+export let LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export let LOGOUT_FAIL = "LOGOUT_FAIL";
+
+
+export let SET_USER = "SET_USER"
+
+
+
+export let GOOGLE_START = "GOOGLE_START";
+export let GOOGLE_SUCCESS = "GOOGLE_SUCCESS";
+export let GOOGLE_FAIL = "GOOGLE_FAIL";
